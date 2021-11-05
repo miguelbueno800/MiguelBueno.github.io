@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Miguel Bueno is a Quantitative Analyst in the Retail Loss Forecasting Validation Team at Bank of America. 
+Miguel Bueno is a Quantitative Analyst at Bank of America. He currently serves on the Retail Capital & Loss Forecasting validation team.
 
 Miguel holds both a Bachelor's of Arts (B.A.) in Economics and a Bachelor's of Science (B.S.) in Mathematics-Statistics from the California State University, Fresno. He also holds a Master of  Science (M.S.) in Applied Economics and Finance from the University of California, Santa Cruz.
 
