@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-I'm crrenly a Strategist at Google, serving in the company's Trust and Saftey division. There I examine allegations of policy violations reported by internal and external stakeholders using a combination of tools to gather information and conduct investigations.
+I'm currenly a Strategist at Google, serving in the company's Trust and Saftey division. There I examine allegations of policy violations reported by internal and external stakeholders using a combination of tools to gather information and conduct investigations.
 
 Prior to my current role, I workerd as a Quantitative Analyst at Bank of America, where I served on the Bank's Retail Capital & Loss Forecasting validation team.
 
